@@ -17,9 +17,9 @@ Future improvements may include expanded conversational logic and additional uti
 
 ## 📸 Screenshots
 
-![Chatbot Screenshot](screenshots/screenshot-1.png)
-![Chatbot Screenshot](screenshots/screenshot-2.png)
-![Chatbot Screenshot](screenshots/screenshot-3.png)
+![Chatbot Screenshot](./screenshots/Screenshot-1.png)
+![Chatbot Screenshot](./screenshots/Screenshot-2.png)
+![Chatbot Screenshot](./screenshots/Screenshot-3.png)
 
 
 ## 🛠 Tech Stack
